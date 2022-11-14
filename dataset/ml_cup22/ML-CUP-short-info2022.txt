@@ -1,0 +1,54 @@
+******** ML-2022 CUP ************
+
+November 2022  data sets v1
+
+
+Basic Information:
+
+-) See the Slides of ML-2022 Lecture for the project 
+(with motivations, rules, input format,  results format description, report and package to be delivered description,  hints, FAQ, etc.), 
+ the provided report template file, and the provided output csv example.
+
+-) In particular consider that the evaluation is computed according to the measure reported in the PRJ Lecture
+(MEE - Mean Euclidean Error for 2022)
+
+
+-) Data includes Training set (ML-CUP22-TR.csv) and a corresponding Blind Test Set (ML-CUP22-TS.csv)
+   Input format: see file prologue.
+
+
+-) Basic Submission Rules:
+
+- Participation is initially restricted to students of ML course 2022 - University of Pisa.
+All participants with their submission agree to the disclosure and publication of their name, results with preliminary and final ranking. 
+
+
+- Delivery rules and deadlines: see slide of ML-2022 PRJ Lecture:
+The Material (that include a package* as specified in the slides of ML-2022 Lecture for the project)  must be provided through 
+the e-learning platform for the ML course, till the deadline specified in each folder of the Moodle site 
+(see the folder for each session in the e-learning platform ).
+An email to announce the upload with the tag [ML-2022] must be sent to micheli@di.unipi.it and to the course assistant, 
+till the same deadline.
+ 
+(*) The package tipically include: your code (if original, else use a link to libraries in the report), 
+your written report (with results on 3 MONKs and the CUP), team-name_ML-CUP22-TS.csv, team-name_abstract.txt
+Deliver the package only as zip file!!!
+Only 1 delivery for each group, by 1 member of the group.
+Use the surnames of the group components in the package file name. 
+And in the pdf report file.
+
+
+- General deadline (and final results): November 2022
+
+---
+
+The competition is conducted purely for academic purposes and should not be exploited commercially.
+
+ML-CUP22 CREDITS:  
+Computational Intelligence and Machine Learning (CIML) group - Pisa
+Alessio Micheli (micheli@di.unipi.it)
+Università di Pisa - Dipartimento di Informatica
+Largo Bruno Pontecorvo 3, 56127 Pisa, ITALY
+
+
+***************
