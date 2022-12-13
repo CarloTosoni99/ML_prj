@@ -2,11 +2,11 @@
 
 ## Grid search with PyTorch ##
 
-on the training set: 1.6860
+on the training set: 1.4594
 
-on the validation set: 1.7779
+on the validation set: 1.5842
 
-final loss on the validation set: 0.08867
+final loss on the validation set: 0.079516
 
 ## Random search with keras ##
 
@@ -18,4 +18,4 @@ final loss on the validation set: 0.08345
 
 ## Ensembling ##
 
-on the test set: 1.661550
+on the test set: 1.543765
