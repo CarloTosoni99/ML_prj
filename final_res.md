@@ -10,12 +10,12 @@ final loss on the validation set: 0.079516
 
 ## Random search with keras ##
 
-on the training set: 1.6750
+on the training set: 1.5275
 
-on the validation set: 1.6720
+on the validation set: 1.5870
 
-final loss on the validation set: 0.08345
+final loss on the validation set: 0.079209
 
 ## Ensembling ##
 
-on the test set: 1.543765
+on the test set: 1.395393
