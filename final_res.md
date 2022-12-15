@@ -16,6 +16,10 @@ on the validation set: 1.5870
 
 final loss on the validation set: 0.079209
 
+## Grid search with KRR ##
+
+on the training set: 1.3359
+
 ## Ensembling ##
 
 on the test set: 1.395393
