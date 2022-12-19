@@ -8,7 +8,7 @@ The files contain the following information:
 - ml_cup22_model_assessment.ipynb: model assessment initially made individually on each model and then using the ensembling method;
 - ml_cup22_pyTorch_GS.ipynb: experiments made for the ML Cup using neural networks implemented with PyTorch library;
 - ML_cup_KNR.ipynb: experiments made for the ML Cup using the k-nearest regressor implemented with scikit library;
-- ML_cup_KRR.ipynb: experiments made for the ML Cup using the Kernel Ridge Regressor implemented with scikit library;
+- ML_cup_KRR.ipynb: experiments made for the ML Cup using the Kernel Ridge Regression implemented with scikit library;
 - ML_cup_SVM.ipynb: experiments made for the ML Cup using the k-nearest regressor implemented with scikit library;
 - pytorch_GridSearch.ipynb: experiments on monks 1, 2, 3 using neural networks implemented with PyTorch library;
 - SVM.ipynb: experiments on monks 1, 2, 3 using SVM implemented with scikit library;
