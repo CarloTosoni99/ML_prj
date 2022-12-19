@@ -1,5 +1,4 @@
 The files contain the following information:
-<<<<<<< HEAD
 - DT.ipynb: in the first part, there are experiments made on monks 1, 2, 3 with random forests, using the grid search. In the second part, there are experiments made on monks 1, 2, 3 with random forests. Both models are been implemented using scikit library;
 - DT_ml_cup22.ipynb: experiments made for the ML Cup using decision trees and random forests. In the first part, there are experiments made with a decision tree model, using the grid search, while in the second part there are experiments with random forests. Both models are been implemented using scikit library;
 - keras_RandomSearch.ipynb: experiments on monks 1, 2, 3 using neural networks implemented with Keras library. In this notebook is used the random search to look for the best combination of hyperparameters;
