@@ -29,4 +29,3 @@ The files contain the following information:
 - ***pytorch_GridSearch.ipynb:*** experiments on monks 1, 2, 3 using neural networks implemented with PyTorch library;
 - ***SVM.ipynb:*** experiments on monks 1, 2, 3 using SVM implemented with scikit library;
 - ***final_res.md:*** text file containing Mean Euclidean Distance and other measures for each model used for the ensembling.
->>>>>>> 8233f523400cef163c9c64c274293b6bee12bb39
