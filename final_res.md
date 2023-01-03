@@ -18,7 +18,22 @@ on the validation set: 1.6498
 
 ## Grid search with KRR ##
 
-on the training set: 1.3359
+on the training set: 1.3637
+
+on the validation set (only the first target): 0.8056
+
+## Grid search with SVR ##
+
+on the training set: 1.2742
+
+on the validation set (only the second target): 1.029
+
+
+## Grid search with KNR ##
+
+on the training set: 1.3685
+
+on the validation set: 1.452
 
 ## Ensembling ##
 
